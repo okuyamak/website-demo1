@@ -1,1 +1,3 @@
-TinDog Starting Files
+# Website example 1
+## Author: Kenta Okuyama
+
